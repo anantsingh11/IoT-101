@@ -1,4 +1,2 @@
 # IoT-101
-
-Collaborators:
-1. 
+anant singh
